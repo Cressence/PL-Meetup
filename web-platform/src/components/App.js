@@ -8,13 +8,13 @@
 import React, { Component } from 'react';
 
 // Components
-import Home from './Home';
+import SignUp from './Login';
 
 class App extends Component {
 
   render() {
     return (
-      <Home />
+      <SignUp />
     )
   }
 };
